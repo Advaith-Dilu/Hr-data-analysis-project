@@ -25,7 +25,7 @@ It visualizes key workforce metrics through intuitive charts, maps, and KPI indi
 ---
 
 ## 🧩 2. Dashboard Overview  
-![Dashboard Preview]([[visuals/dashboard_preview.png](https://github.com/Advaith-Dilu/Hr-data-analysis-project/blob/main/Screenshot%202025-10-15%20154852.pn](https://github.com/Advaith-Dilu/Hr-data-analysis-project/blob/main/Screenshot%202025-10-15%20154852.png)g))
+![Dashboard Preview]([Screenshot 2025-10-15 154852.png)
 ### 🔹 2.1 Key Metrics  
 - **Active Employees:** 311  
 - **Target vs. Actual:** Tracks current employee count against target goals, showing a positive growth trend.  
